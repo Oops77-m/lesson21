@@ -161,3 +161,4 @@ C:\Users\petys\RiderProjects\Lesson21\Test21\obj\Debug\net10.0\refint\Test21.dll
 C:\Users\petys\RiderProjects\Lesson21\Test21\obj\Debug\net10.0\Test21.pdb
 C:\Users\petys\RiderProjects\Lesson21\Test21\obj\Debug\net10.0\Test21.genruntimeconfig.cache
 C:\Users\petys\RiderProjects\Lesson21\Test21\obj\Debug\net10.0\ref\Test21.dll
+C:\Users\petys\RiderProjects\Lesson21\Test21\obj\Debug\net10.0\Test21.sourcelink.json

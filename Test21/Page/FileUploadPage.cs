@@ -21,8 +21,6 @@ public class FileUploadPage : BasePage
     {
         var input = _driver.FindElement(fileInput);
         input.SendKeys(@"C:\1\test.txt");
-        //_driver.FindElement(By.Id("uploadFile")).SendKeys(@"C:\1\test.txt");
-        //_driver.FindElement(By.Id("file-submit")).Click();
     }
 
     public string FileInputText()
